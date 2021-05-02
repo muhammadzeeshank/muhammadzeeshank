@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
+
+- [How to Download Microsoft Teams/Stream Recorded Meeting Videos to your PC [Updated] (URDU/HINDI)](https://youtu.be/uLQLCpji7pc)
+- [Voice Controlled Home Automation Project | Youtube #shorts](https://youtu.be/g172va8gjZ0)
+- [How to Fix Hardware Virtualization Problem in Virtualbox (Easy and 100% Fix)](https://youtu.be/4uifzJN5XQc)
+- [How to Use Mobile Mic for PC or Laptop (Very Easy way)](https://youtu.be/1ZXqwfEoYUM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/bengrs)
