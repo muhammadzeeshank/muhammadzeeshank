@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
+- [How To Lock PC With Voice From Anywhere | Urdu/Hindi](https://www.youtube.com/watch?v=QuwMrZ9yfu8)
+- [Automatic Irrigation system using Arduino and Soil Moisture Sensor](https://www.youtube.com/watch?v=WxjJttzQAcw)
+- [Voice Controlled Home Automation Project | Youtube #shorts](https://www.youtube.com/watch?v=g172va8gjZ0)
+- [How to Download Microsoft Teams/Stream Recorded Meeting Videos to your PC [Updated] (URDU/HINDI)](https://www.youtube.com/watch?v=uLQLCpji7pc)
+- [Control home appliances from your Mobile | Simple Home Automation project | Youtube #shorts](https://www.youtube.com/watch?v=fR48T07luJM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/bengrs)
