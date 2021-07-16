@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://muhammadzeeshank.github.io/pf/](https://muhammadzeeshank.github.io/pf/)
-
-- 📄 Know about my experiences [https://muhammadzeeshank.github.io/cv/](https://muhammadzeeshank.github.io/cv/)
-
 
 <br />
 <br />
