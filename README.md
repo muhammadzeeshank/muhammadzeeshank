@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
 <h3 align="center">Passionate student with basic skills in different programming languages. I’m committed to taking advantage of every opportunity to develop my skills to the next level!</h3>
 
-- 🔭 I’m currently working on **Digital Image processing**
+- 🔭 I’m currently working on **EMR for HMIS using Blockchain technology**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and  Blockchain technology**
 
 
 <br />
